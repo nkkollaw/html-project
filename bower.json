@@ -1,0 +1,22 @@
+{
+	"name": "html-project",
+	"description": "",
+	"main": "index.html",
+	"authors": [
+		"Niccolò Brogi <me@nbrogi.com>"
+	],
+	"license": "ISC",
+	"homepage": "https://github.com/nkkollaw/html-project",
+	"moduleType": [],
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"animo.js": "~1.0.3"
+	}
+}
