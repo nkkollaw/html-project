@@ -3,3 +3,5 @@ dist
 node_modules
 .eslintrc.json
 .DS_Store
+
+src/css/lib/bootstrap-4/docs/
